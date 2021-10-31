@@ -1,5 +1,5 @@
 Module: basic Python
-Assignment #2 (Set 30, 2021)
+# Assignment #2 (Set 30, 2021)
 
 --- Goal
 Write a program to explore the properties of a few elementary Particles.
@@ -7,8 +7,7 @@ The program must contain a Base class Particle and two Child classes, Proton and
 
 --- Specifications
 - instances of the class Particle must be initialized with their mass, charge, and name
-- the class constructor must also accept (optionally) and store one and only one of the following quantities: 
-- energy, momentum, beta or gamma
+- the class constructor must also accept (optionally) and store one and only one of the following quantities: energy, momentum, beta or gamma
 - whatever the choice, the user should be able to read and set any of the
   above-mentioned quantities using just the '.' (dot) operator e.g.
   print(my_particle.energy), my_particle.beta = 0.5
