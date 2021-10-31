@@ -1,5 +1,5 @@
-# Module: basic Python
-Assignment #2 (Set 30, 2021)
+Module: basic Python
+# Assignment #2 (Set 30, 2021)
 
 --- Goal
 Write a program to explore the properties of a few elementary Particles.
